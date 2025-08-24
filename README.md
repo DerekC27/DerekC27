@@ -17,8 +17,4 @@ Hello! I'm Derek, a web developer passionate about programming. I love learning 
 ![React](https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/React-Dark.svg)
 ![Angular](https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Angular-Dark.svg)
 
-### 🤝🏻 Connect with Me
 
-<p align="center">
-  <a href=""><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Twitter.svg" alt="Twitter"></a>
-</p>
